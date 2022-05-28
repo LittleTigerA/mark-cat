@@ -1,0 +1,19 @@
+{
+  "name": "mark-cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleTigerA/mark-cat.git"
+  },
+  "author": "littletigera",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/LittleTigerA/mark-cat/issues"
+  },
+  "homepage": "https://github.com/LittleTigerA/mark-cat#readme"
+}
